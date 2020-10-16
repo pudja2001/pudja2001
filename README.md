@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**pudja2001/pudja2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### 🌱 I'M Muhammad Pudja Gemilang
 ### 🔭 i'm currently sophomore mathematics students at ITB 
 ### 🌱 in my busy time, i'm still self-learning about machine learning and data science in my spare time
